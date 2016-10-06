@@ -27,3 +27,5 @@ See more at the Programming Historian website:
 
 # Header 1
 ## Header 2
+
+*This post is an experiment in collaboration with git*
