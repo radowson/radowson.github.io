@@ -27,3 +27,6 @@ See more at the Programming Historian website:
 
 # Header 1
 ## Header 2
+
+Software carpentry is a very useful set of workshops. You can read more about them here:
+[Software Carpentry](https://software-carpentry.org)
