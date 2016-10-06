@@ -14,7 +14,7 @@ Welcome to a collaboration in GitHub at SFU.
 * Git is also useful!
 
 * Learned at the Python Course Oct 5-6 2016
-See more at [Programming Historian](programminghistorian.org/lessons)
+See more at [Programming Historian](http://programminghistorian.org/lessons)
 *format*
 
 **other format**
