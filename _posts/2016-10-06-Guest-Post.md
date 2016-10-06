@@ -30,3 +30,5 @@ See more at the Programming Historian website:
 
 Software carpentry is a very useful set of workshops. You can read more about them here:
 [Software Carpentry](https://software-carpentry.org)
+
+*This post is an experiment in collaboration with git*
