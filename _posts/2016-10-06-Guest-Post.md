@@ -16,9 +16,9 @@ Welcome to a collaboration in GitHub at SFU.
 * Learned at the Python Course Oct 5-6 2016
 See more at the Programming Historian website: 
 
-<http://programminghistorian.org/lessons>
-http://programminghistorian.org
-[test link](http://programminghistorian.org)
+<!-- <http://programminghistorian.org/lessons> -->
+<!-- http://programminghistorian.org -->
+[Progamming Historian Website](http://programminghistorian.org)
 
 
 *format*
